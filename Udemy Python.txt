@@ -1,0 +1,8 @@
+Python 3 Notebooks can be found here:
+https://github.com/Pierian-Data/Complete-Python-3-Bootcamp
+
+The older Python 2 Notebooks can be found here:
+https://github.com/jmportilla/Complete-Python-Bootcamp
+
+Slides:
+https://drive.google.com/drive/folders/1cAM251bjoBCYF2bHfMM07MOGEgU2Q2VQ?usp=sharing
